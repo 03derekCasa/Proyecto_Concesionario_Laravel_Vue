@@ -1,0 +1,12 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#5475
+    [34mid[39m: [35m2[39m,
+    [34mname[39m: "[32mderek[39m",
+    [34memail[39m: "[32m03derekcasa@gmail.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$12$/DjVv1uTfwlT2nkg5dj8Q.q5bGfjpTUbNHgcxCjiK4/slffDeFKiW[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2026-02-19 19:26:22[39m",
+    [34mupdated_at[39m: "[32m2026-02-19 19:26:22[39m",
+    [34mrole[39m: "[32mcliente[39m",
+  }
+
