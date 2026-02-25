@@ -34,17 +34,17 @@ const isAdmin = computed(() => user.value?.role === 'admin')
       <div class="grid md:grid-cols-3 gap-6">
 
         <div class="bg-base-200 p-6 rounded-xl shadow-md">
-          <h2 class="text-xl font-semibold mb-2">🚗 Coches</h2>
+          <h2 class="text-xl font-semibold mb-2">Coches</h2>
           <p class="opacity-70">Consulta nuestra selección de coches disponibles.</p>
         </div>
 
         <div class="bg-base-200 p-6 rounded-xl shadow-md">
-          <h2 class="text-xl font-semibold mb-2">🏍️ Motos</h2>
+          <h2 class="text-xl font-semibold mb-2">Motos</h2>
           <p class="opacity-70">Descubre nuestras motocicletas.</p>
         </div>
 
         <div class="bg-base-200 p-6 rounded-xl shadow-md">
-          <h2 class="text-xl font-semibold mb-2">💰 Mejores precios</h2>
+          <h2 class="text-xl font-semibold mb-2">Mejores precios</h2>
           <p class="opacity-70">Filtra por rango de precio y encuentra tu oferta ideal.</p>
         </div>
 
